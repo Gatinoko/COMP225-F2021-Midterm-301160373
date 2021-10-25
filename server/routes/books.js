@@ -1,3 +1,9 @@
+/*
+  File name: db.js
+  Author: Gabriel Tinoco
+  SID: 301160373
+*/
+
 // Modules required for routing.
 let express = require('express');
 let router = express.Router();
